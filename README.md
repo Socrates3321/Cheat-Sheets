@@ -5,5 +5,12 @@
 主要目的就是防止自己忘了这些内容，或者通过笔记快速回忆起这些知识，以免浪费时间问ai~~
 
 
-现在已加入用于记录日常用到的正则表达式的分支：<br/>
+现在已加入用于记录日常用到的分支<br/>
+
+正则表达式分支：<br/>
 ###     [正则表达式](https://github.com/Socrates3321/Cheat-Sheets/tree/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F?)
+ 
+ <br/>
+ 
+影刀rpa分支：<br/>
+###     [影刀rpa]([https://github.com/Socrates3321/Cheat-Sheets/tree/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F?](https://github.com/Socrates3321/Cheat-Sheets/tree/%E5%BD%B1%E5%88%80RPA))
